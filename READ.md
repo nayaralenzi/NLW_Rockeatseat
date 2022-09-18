@@ -1,6 +1,6 @@
 # NLW eSports - Trilha Explorer
 
-![preview]{./.NLW_Rockeatseat/preview.png}
+![preview]{./.NLW_Rockeatseat/preview.png.png}
 
 > Trilha Explorer
 
